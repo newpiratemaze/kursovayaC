@@ -1,0 +1,7 @@
+﻿  mainn.c
+D:\kursovayaOPIA(main)\kursovaya\mainn.c(235,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\kursovayaOPIA(main)\kursovaya\mainn.c(507,3): warning C4033: "readfromfile" должен возвращать значение
+D:\kursovayaOPIA(main)\kursovaya\mainn.c(512,3): warning C4033: "readfromfile" должен возвращать значение
+D:\kursovayaOPIA(main)\kursovaya\mainn.c(525,4): warning C4033: "readfromfile" должен возвращать значение
+D:\kursovayaOPIA(main)\kursovaya\mainn.c(585,1): warning C4715: readfromfile: значение возвращается не при всех путях выполнения
+  kursovaya.vcxproj -> D:\kursovayaOPIA(main)\kursovaya\x64\Debug\kursovaya.exe
